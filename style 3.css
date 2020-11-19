@@ -1,0 +1,22 @@
+ul {column-count: 2;
+font-size: 400%;
+text-align: top;
+color: #ed79e9;
+}
+a {color: #ed79e9;
+}
+body {background-image: url("love.jpg");
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center;
+background-size: 1500px;
+}
+p {text-align: center;
+color: white;
+}
+h1 {color: white;
+text-align: center;
+}
+h2 {color: white;
+text-align: center;
+}

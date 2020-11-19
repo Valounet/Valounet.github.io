@@ -1,0 +1,12 @@
+body {background-image: url("book-52.gif");
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: bottom;
+background-size: 1220px;
+}
+h1 {color: white;
+text-align: center;
+font-size: 1050%;
+}
+a {color: #31c3e8;
+}
